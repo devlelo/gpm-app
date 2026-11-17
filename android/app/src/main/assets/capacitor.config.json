@@ -1,0 +1,9 @@
+{
+	"appId": "com.gpmconecta.app",
+	"appName": "GPM",
+	"webDir": "www",
+	"server": {
+		"url": "https://nautical-limegreen-dunlin-18.hostingersite.com/",
+		"cleartext": false
+	}
+}
